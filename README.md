@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do luis-gustavo836 😁
 
  <div>
    <a href="https://github.com/luis-gustavo836">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### para acesso a minhas redes sociais click no botão abaixo!
  
 <div> 
   
